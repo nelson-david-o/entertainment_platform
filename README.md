@@ -39,7 +39,7 @@ _Este es un paso a paso que te dice lo que debes ejecutar para tener un entorno 
 _Clonar repositorio_
 
 ```
-cd c:\xampp\htdocs\>  git clone https://github.com/johannDevFull/kobranzas.co.git
+cd c:\xampp\htdocs\>  git clone [https://github.com/johannDevFull/kobranzas.co.git](https://github.com/nelson-david-o/entertainment_platform.git)
 ```
 
 _Cargar dependencias de composer_
