@@ -41318,7 +41318,7 @@ var main = new Vue({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\kobranzas.co\resources\js\script.js */"./resources/js/script.js");
+module.exports = __webpack_require__(/*! C:\Users\User\OneDrive\Documentos\PlantillaLaravel\kobranzas.co\resources\js\script.js */"./resources/js/script.js");
 
 
 /***/ })

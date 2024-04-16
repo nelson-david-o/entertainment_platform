@@ -63,11 +63,11 @@ if (isset($_REQUEST['politica-cookies'])) {
             </li>
   
             <li class="page-scroll">
-              <a href="#features">Ramas</a>
+              <a href="#features">Planes</a>
             </li>
 
             <li class="page-scroll">
-              <a href="#pricing">Servicios</a>
+              <a href="#pricing">Promociones</a>
             </li>
             <li class="page-scroll">
               <a href="#contact">Contacto</a>
